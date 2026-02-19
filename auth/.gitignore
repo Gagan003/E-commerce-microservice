@@ -1,0 +1,24 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs & coverage
+logs/
+*.log
+coverage/
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
+
+# Builds
+dist/
+build/
